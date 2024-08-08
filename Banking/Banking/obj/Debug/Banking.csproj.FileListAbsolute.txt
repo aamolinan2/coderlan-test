@@ -1,0 +1,6 @@
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\Banking\obj\Debug\Banking.pdb

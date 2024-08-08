@@ -1,0 +1,17 @@
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\BankingUnitTest.dll
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\BankingUnitTest.pdb
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\obj\Debug\BankingUnitTest.csproj.AssemblyReference.cache
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\obj\Debug\BankingUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\obj\Debug\BankingU.2C3A01C8.Up2Date
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\obj\Debug\BankingUnitTest.dll
+C:\Users\Abraham Molina\Downloads\dotnet-technical-test\dotnet-technical-test\Banking\BankingUnitTest\obj\Debug\BankingUnitTest.pdb
